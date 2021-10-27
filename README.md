@@ -1,0 +1,1 @@
+This repository demonstrates [the issue](https://github.com/WordPress/gutenberg/issues/35980) with the [`CleanWebpackPlugin` webpack plugin](https://www.npmjs.com/package/clean-webpack-plugin) removing build output in multi-process webpack configurations such as [webpack.config.js](webpack.config.js).
