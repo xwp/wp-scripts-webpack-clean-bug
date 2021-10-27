@@ -21,4 +21,4 @@ const configLegacy = {
     },
 }
 
-module.exports = [ configModern, configLegacy ];
+module.exports = [ configLegacy, configModern ];
