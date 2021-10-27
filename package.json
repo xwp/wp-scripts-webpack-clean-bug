@@ -1,0 +1,10 @@
+{
+  "name": "wp-scripts-webpack-clean-bug",
+  "scripts": {
+    "build": "wp-scripts build"
+  },
+  "dependencies": {
+    "@wordpress/scripts": "^19.0.0",
+    "whatwg-fetch": "^3.6.2"
+  }
+}
